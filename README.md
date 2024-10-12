@@ -1,0 +1,2 @@
+# Image-Classification_AI_AND_NON_AI_GENERATED
+Tugas Akhir
